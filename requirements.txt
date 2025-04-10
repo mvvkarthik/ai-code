@@ -6,4 +6,4 @@ tabulate
 openpyxl
 pytesseract
 base64
-
+Image
